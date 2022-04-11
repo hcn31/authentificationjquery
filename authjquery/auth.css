@@ -1,0 +1,26 @@
+button{
+background-color: aquamarine;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border-radius: 10px;
+margin:5px 0px;
+padding: 5px 5px;
+box-shadow: 0 0 1.1rem rgba(0, 0, 0, 0.582);
+}
+input{
+background-color: aquamarine;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border-radius: 10px;
+border-width: 0;
+margin:5px 0px;
+padding: 5px 5px;
+
+}
+
+
+#all
+{
+
+    width:300px;
+    border-radius: 10px;
+    background: linear-gradient(to bottom, #009999 30%, #486767 70%);
+}
